@@ -1,0 +1,16 @@
+.activeGlitch{
+background-image:url("../img/Madison1.jpg");
+background-repeat: no-repeat;
+height: 618px;
+width: 554px;
+margin-left: auto;
+margin-right: auto;
+transition: all 1s ease-in-out;
+border-radius: 50%;
+border: 15px solid black;
+padding-right: 56%;
+}
+.activeGlitch:hover{
+	
+	background-image:url("../img/glitched-image.png");
+}
