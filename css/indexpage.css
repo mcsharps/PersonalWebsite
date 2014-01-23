@@ -1,4 +1,4 @@
-.activeGlitch{
+#activeGlitch{
 background-image:url("../img/madison1crop.jpg");
 background-repeat: no-repeat;
 height: 435px;
@@ -10,7 +10,7 @@ border-radius: 50%;
 border: 5px solid black;
 padding-right: 54%;
 }
-.activeGlitch:hover{
+#activeGlitch:hover{
 	
 	background-image:url("../img/glitch2.png");
 }
