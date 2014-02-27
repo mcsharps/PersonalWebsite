@@ -1,4 +1,32 @@
-#activeGlitch{
+/* Standard HTML/CSS Classes and ID's */
+a
+{
+	color: #00A825;
+}
+a:hover
+{
+	color: #00811C;
+}
+h1
+{
+	color: #00A825;
+}
+h3
+{
+	color: #00A825;
+}
+.button
+{
+	background-color: #00A825;
+
+}
+.button:hover
+{
+	background-color: #00811C;
+}
+/* Custom Classes/ID's */
+#activeGlitch
+{
 background-image:url("../img/madison1crop.jpg");
 background-repeat: no-repeat;
 height: 435px;
