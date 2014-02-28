@@ -7,6 +7,9 @@ a:hover
 {
 	color: #00811C;
 }
+body
+{
+	background: rgba(245, 220, 3, 0.14);}
 h1
 {
 	color: #00A825;
